@@ -31,10 +31,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 <a href="https://www.linkedin.com/in/raja-sharath-chandra-acha-290b48146/"><img src="https://img.shields.io/badge/-Raja Sharath Chandra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:racha@hawk.iit.edu"><img src="https://img.shields.io/badge/-racha@hawk.iit.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 
 
