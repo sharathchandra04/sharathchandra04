@@ -3,6 +3,9 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sharath</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
+### &nbsp; Certified Kubernetes Admistrator
+### &nbsp; AWS Devops Solution Architech
+### &nbsp; Full Stack Developer
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🖥️ &nbsp;I have 3+ years of professional experience as a Fullstack developer.\
