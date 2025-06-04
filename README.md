@@ -6,6 +6,9 @@
 ### &nbsp; Certified Kubernetes Admistrator
 ### &nbsp; AWS Devops Solution Architech Professional
 ### &nbsp; Full Stack Developer
+### &nbsp; Big Data Engineering
+### &nbsp; Cloud Engineering
+### &nbsp; AI/ML (Generative AI)
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🖥️ &nbsp;I have 6+ years of professional experience as a Fullstack developer.\
