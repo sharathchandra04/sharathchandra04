@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 ### &nbsp; Certified Kubernetes Admistrator
-### &nbsp; AWS Devops Solution Architech Professional
+### &nbsp; AWS DevOps Solution Architect Professional
 ### &nbsp; Full Stack Developer
 ### &nbsp; Big Data Engineering
 ### &nbsp; Cloud Engineering
